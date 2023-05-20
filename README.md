@@ -6,4 +6,4 @@
    
 _(в процессе разработки билингвальная модель русский-французский)_
 
-2. Модели: Scikit-Learn LDA, Gensim LDA, t-Bert, Scikit-Learn LSA, Gensim LSA, NMF, W2V
+2. Модели: Scikit-Learn LDA, Gensim LDA, t-Bert, Scikit-Learn LSA, NMF
